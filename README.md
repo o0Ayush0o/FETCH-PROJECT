@@ -1,2 +1,2 @@
 # FETCH-PROJECT
-My Project
+My Project of fetchathon
